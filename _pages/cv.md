@@ -5,17 +5,20 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /CV
+redirect_to: https://drive.google.com/file/d/1LdgAVi5AsVBgmF9pWt6ks4sR-n69-DfE/view?usp=sharing
 ---
+
 
 {% include base_path %}
 
-Education
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science: Data Science Option, University of Washington, 2023
+* M.S. in Computer Science, University of Washington, 2014 (expected) -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+<!-- Research Experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
