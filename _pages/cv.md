@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-![cv](AndrewZhang126.github.io/images/profile.png)
+![cv](500x300.png)
 
 <!-- Education
 ======

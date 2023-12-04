@@ -12,7 +12,7 @@ author_profile: true
 As a teaching assistant, I hold weekly review sections for students to review key concepts and work on practice problems, grade assignments, and attend community meetings to ensure students have a positive learning experience.
 
 * Fall 2023: Graduate Teaching Assistant
-  * [CSE 312: Foundations of Computing II](https://courses.cs.washington.edu/courses/cse312/)
+  * [CSE 312: Foundations of Computing II](https://courses.cs.washington.edu/courses/cse312/), *University of Washington*
   * Instructor: Professor Rachel Lin
   * Concepts: Discrete and continous probability, random variables 
 
