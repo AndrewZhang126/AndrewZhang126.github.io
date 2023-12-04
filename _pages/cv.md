@@ -12,7 +12,7 @@ redirect_from:
 
 {% include base_path %}
 
-![cv](Andrew_Zhang_PhDResume.png)
+![cv](Andrew_Zhang_PhDResume.pdf)
 
 <!-- Education
 ======
