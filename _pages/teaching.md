@@ -16,3 +16,7 @@ As a teaching assistant, I hold weekly review sections for students to review ke
   * Instructor: Professor Rachel Lin
   * Concepts: Discrete and continous probability, random variables 
 
+* Spring 2023: Undergraduate Teaching Assistant
+  * [CSE 373: Data Structures and Algorithms](https://courses.cs.washington.edu/courses/cse373/), *University of Washington*
+  * Instructor: Professor Kasey Champion
+  * Concepts: Discrete and continous probability, random variables 
