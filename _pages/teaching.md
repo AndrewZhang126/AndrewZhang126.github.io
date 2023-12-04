@@ -9,11 +9,10 @@ author_profile: true
 # redirect_to: https://drive.google.com/file/d/1Sf1d-bqvnmHgVw-Mg6R5FPeQY7dA6Bs0/view?usp=sharing
 ---
 
-Teaching Experience
-======
+As a teaching assistant, I hold weekly review sections for students to review key concepts and work on practice problems, grade assignments, and attend community meetings to ensure students have a positive learning experience.
 
 * Fall 2023: Graduate Teaching Assistant
-  * CSE 312: Foundations of Computing II
+  * [CSE 312: Foundations of Computing II](https://courses.cs.washington.edu/courses/cse312/)
   * Instructor: Professor Rachel Lin
-  * Concepts Covered: Discrete and continous probability, random variables 
+  * Concepts: Discrete and continous probability, random variables 
 
