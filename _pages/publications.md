@@ -18,7 +18,7 @@ author_profile: true
 
 
 * Ather Sharif, **Andrew M. Zhang**, Katharina Reinecke, and Jacob O. Wobbrock. (2023). <a href="https://doi.org/10.1145/3587281" target="_blank" rel="noopener">"Understanding and Improving Drilled-Down Information Extraction from Online Data Visualizations for Screen-Reader Users."</a> <i>In 20th International Web for All Conference (W4A ’23).<i> 
-<span style="color:red"> [Best Technical Paper]</span>.
+<span style="color:red"> Best Technical Paper </span>.
 
 * Ather Sharif, **Andrew M. Zhang**, Anna Shih, Jacob O. Wobbrock, and Katharina Reinecke. (2022). <a href="https://doi.org/10.1145/3517428.3550363" target="_blank" rel="noopener">"Understanding and Improving Information Extraction From Online Geospatial Data Visualizations for Screen-Reader Users."</a> <i>In The 24th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS ’22).<i>
 
