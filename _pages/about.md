@@ -14,6 +14,8 @@ I have been a **teaching assistant** at the University of Washington for numerou
 
 Beyond the classroom and workplace, I am passionate about playing sports such as soccer, tennis, and boxing, the last of which I was part of the **UW Husky Boxing Club**. 
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/199735036@N02/albums/72177720313502399" title="Panos"><img src="https://live.staticflickr.com/65535/53407739185_0259cb1f9b_z.jpg" width="640" height="480" alt="Panos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <!-- I also love traveling the world and taking panoramic photos, check some out here [📷 ](https://andrewzhang126.github.io/photos/)! -->
 
 
