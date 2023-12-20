@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student at the University of Washington studying computer science with an interest in the intersection of **human-computer interaction** and **applied machine learning**. My research is focused on creating more powerful interfaces for **data visualizations**, specifically in improving their **accessibility** for people with vision impairments using screen-readers. Further, I am exploring the inclusion of interactivity within static visualizations in academic documents for better **scholarly communication**. 
+I am a Master's student at the University of Washington studying computer science with an interest in the intersection of **human-computer interaction** and **applied machine learning**. My research is focused on creating more powerful interfaces for **data visualizations**, specifically in improving their **accessibility** for people with vision impairments using screen-readers and within toolits for **scholarly documents**. 
 
 I have been a **teaching assistant** at the University of Washington for numerous courses, including introductory programming, data structures and algorithms, probability and statistics, and data visualizations. I was a **software engineering intern at The Walt Disney Company**, where I built an anomlay detection model for third party users through spectral clustering. As a **software engineering intern at Splunk**, I built an internal website to search for GitLab CI/CD pipelines for Splunk Enterprise builds and releases. 
 
